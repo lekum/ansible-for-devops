@@ -1,2 +1,2 @@
 # ansible-for-devops
-Companion for "Ansible for DevOps" book
+My companion repo for [Ansible for DevOps](https://leanpub.com/ansible-for-devops/) book.
